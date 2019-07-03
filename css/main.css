@@ -3412,4 +3412,20 @@ html.no-csstransitions .home-content__main {
   }
 }
 
+.cuti{
+    @include 'style.css';
+}
+
+.cuti-btn{
+    height: 35.20px;
+    line-height: 3.30rem;
+    background-color:transparent;
+    color: #ffffff;
+}
+
+.cuti-btn:hover{
+    background-color: black;
+    color: #cc147f;
+    border: 0.2px;
+}
 /*# sourceMappingURL=main.css.map */
